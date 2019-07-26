@@ -4,5 +4,5 @@ class Person
   end 
   
   attr_accessor
-  end 
+
 end 
